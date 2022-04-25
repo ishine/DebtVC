@@ -16,7 +16,7 @@ Flowchart of DebtVC
 
 Design motivation of DebtVC forge module
 
-![image](https://github.com/WSYcurry/DebtVC/blob/main/DebtVC2022/forge_function_with_arrow.bmp)
+![image](https://github.com/WSYcurry/DebtVC/blob/main/DebtVC2022/forge_function_with_arrow_4.eps)
 
 If you find this work useful and use it in your research, please consider citing our paper.
 
